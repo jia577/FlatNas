@@ -301,7 +301,7 @@
       "id": "w4",
       "type": "memo",
       "enable": true,
-      "data": "解决了收藏夹组件无法编辑的问题\n增加了万能窗口适应窗口按钮的持续化\n万能窗口添加了手机端展现开关\n优化了设置栏再手机端的表现\n修复了收藏夹弹窗位置BUG\n强化了稳定性\n修复了RSS无法使用的BUG\n调整了项目修改的布局\n修改了卡片模式下标题的显示方式\n增加壁纸库，增加手机端壁纸库",
+      "data": "解决了收藏夹组件无法编辑的问题\n增加了万能窗口适应窗口按钮的持续化\n万能窗口添加了手机端展现开关\n优化了设置栏再手机端的表现\n修复了收藏夹弹窗位置BUG\n强化了稳定性\n修复了RSS无法使用的BUG\n调整了项目修改的布局\n修改了卡片模式下标题的显示方式\n增加壁纸库，增加手机端壁纸库\n导航标题关联标签页内容",
       "colSpan": 1,
       "rowSpan": 2,
       "isPublic": true
@@ -326,7 +326,7 @@
     {
       "id": "clockweather",
       "type": "clockweather",
-      "enable": false,
+      "enable": true,
       "colSpan": 1,
       "rowSpan": 1,
       "isPublic": false
@@ -384,7 +384,7 @@
       "id": "w9",
       "type": "calculator",
       "enable": true,
-      "colSpan": 1,
+      "colSpan": 4,
       "rowSpan": 2,
       "isPublic": true
     },
@@ -435,7 +435,7 @@
     "backgroundMask": 0.2,
     "mobileBackgroundBlur": 0,
     "mobileBackgroundMask": 0,
-    "customTitle": "我的导航",
+    "customTitle": "青楼",
     "titleAlign": "left",
     "titleSize": 34,
     "titleColor": "#ffffff",
@@ -483,7 +483,8 @@
     "footerWidth": 1280,
     "footerMarginBottom": 0,
     "footerFontSize": 12,
-    "autoPlayMusic": false
+    "autoPlayMusic": false,
+    "isWideScreen": true
   },
   "password": "$2b$10$/ixnG42heGfJAW9cpzO1rOc5KQfIsE2yZoD.mh6J.At8UojQiIwVy",
   "rssFeeds": [],
