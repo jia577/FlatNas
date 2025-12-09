@@ -1,0 +1,9 @@
+{
+  "name": "flat-nas",
+  "compatibility_date": "2025-12-09",
+  "assets": {
+    "directory": "./dist",
+    "browser_ttl": 86400,
+    "serve_single_page_app": true
+  }
+}
