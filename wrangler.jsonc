@@ -1,5 +1,5 @@
 {
-  "name": "flat-nas",
+  "name": "flatnas",
   "compatibility_date": "2025-12-09",
   "assets": {
     "directory": "./dist",
