@@ -1,9 +1,20 @@
 {
-  "name": "flat-nas",
+  "name": "flatnas",
   "compatibility_date": "2025-12-09",
   "assets": {
     "directory": "./dist",
     "browser_ttl": 86400,
     "serve_single_page_app": true
+  },
+  "kv_namespaces": [
+    {
+      "binding": "FLATNAS_STORAGE",
+      "id": "your_namespace_id_here",
+      "preview_id": "your_preview_namespace_id_here"
+    }
+  ],
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1.0
   }
 }
